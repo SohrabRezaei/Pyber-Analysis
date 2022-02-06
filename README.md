@@ -10,8 +10,7 @@ The total amounts are low for rural city type compared to others,while urban bei
 
 ## Summary
 
-In the rural type, they could decrease the fare while increasing the rides to lower the average fares. In the urban type, they could increase the fare
-
+In the rural type, they could lower the fares by increasing the drivers and rides, while lowering the fare to decrease the average. In the suburban type, they could decrease the fares by lowering the rides and drivers. 
 
 
  
